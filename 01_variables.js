@@ -8,3 +8,4 @@ accountCity="Bengluru"
 //accountId=2 not allowedd
 console.log(accountId)
 console.table([accountId,accountEmail,accountPassword,accountCity])
+console.log("hehe");

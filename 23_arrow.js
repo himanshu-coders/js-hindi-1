@@ -32,4 +32,5 @@ const chai = ()=>{
 (function cha(){
     console.log(`hel`);
 })();
+console.log("object");
 
