@@ -32,3 +32,4 @@ const pricetopay=shoppingcart.reduce((acc,item)=>
 
 ,0)
 console.log(pricetopay);
+
